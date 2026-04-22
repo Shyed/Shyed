@@ -12,5 +12,5 @@ Full-stack developer building real-world applications
 React | Node.js | Express | SQL | MongoDB | Java | C++
 
 ## Links
-Portfolio: https://shyed.github.io/sheila-portfolio/
-LinkedIn: https://linkedin.com/in/sheilademonteverde
+-Portfolio: https://shyed.github.io/sheila-portfolio/
+-LinkedIn: https://linkedin.com/in/sheilademonteverde
