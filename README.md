@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @SheilaDemonteverde
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently in the process of completing my bachlor's degree in software engineering
-- 💞️ I’m looking to collaborate on programming projects any and all
-- 📫 You can reach me at demonteverdesheila8@gmail.com
+Hi, I’m Sheila 👋
 
-<!---
-Shyed/Shyed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software Engineering student at Penn State  
+Full-stack developer building real-world applications  
+
+## Projects
+- AI Chat App (React, Node, Hugging Face)
+- Job Tracker (React, Supabase)
+- REST APIs (Node, MongoDB)
+
+## Tech
+React | Node.js | Express | SQL | MongoDB | Java | C++
+
+## Links
+Portfolio: https://shyed.github.io/sheila-portfolio/
+LinkedIn: https://linkedin.com/in/sheilademonteverde
